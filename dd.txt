@@ -1,1 +1,2 @@
 delete test
+up up up
