@@ -1,5 +1,2 @@
-delete test
-up up up
-<<<<<<< HEAD
-master & dev
+dd
 
